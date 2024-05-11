@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation_Drawer_Menu</string>
+    <string name="menu_home">Главная</string>
+    <string name="menu_body">Кузов</string>
+    <string name="menu_engine">Двигатель</string>
+    <string name="menu_disk">Диски</string>
+    <string name="menu_salon">Салон</string>
+    <string name="menu_transmission">Трансмиссия</string>
+    <string name="razdelitel_category">Категория 2</string>
+    <string name="menu_like">Избранное</string>
+    <string name="open_drawer">Открыто меню</string>
+    <string name="close_drawer">Закрыто меню</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

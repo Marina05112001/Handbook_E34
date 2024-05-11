@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bodycar">
+        <item>Передняя часть</item>
+        <item>Задняя часть</item>
+        <item>Кабина пассажира</item>
+        <item>Кузовные детали</item>
+        <item>Детали кузова</item>
+        <item>Облицовка</item>
+        <item>Остекление</item>
+        <item>Головной свет</item>
+        <item>Дополнительное освещение</item>
+        <item>Освещение</item>
+        <item>Крепление</item>
+        <item>Газовые пружины</item>
+    </string-array>
+<!--    <string-array name="bodycar_content">-->
+<!--        <item>32596425</item>-->
+<!--        <item>2357253</item>-->
+<!--        <item>321234135425</item>-->
+<!--        <item>32126935425</item>-->
+<!--        <item>31389525425</item>-->
+<!--        <item>313786525425</item>-->
+<!--        <item>37851325425</item>-->
+<!--        <item>31325425</item>-->
+<!--        <item>2431325425</item>-->
+<!--        <item>45631325425</item>-->
+<!--        <item>4631325425</item>-->
+<!--        <item>45731325425</item>-->
+<!--    </string-array>-->
+    
+    <string-array name="engine">
+        <item>Двигатель 1</item>
+        <item>Двигатель 2</item>
+        <item>Двигатель 3</item>
+        <item>Двигатель 4</item>
+        <item>Двигатель 5</item>
+    </string-array>
+<!--    <string-array name="engine_content">-->
+<!--        <item>254252</item>-->
+<!--        <item>62463642</item>-->
+<!--        <item>475473563</item>-->
+<!--    </string-array>-->
+<!--    <array name="engine_image">-->
+<!--        <item>@drawable/engine</item>-->
+<!--        <item>@drawable/logo</item>-->
+<!--        <item>@drawable/engine</item>-->
+<!--    </array>-->
+
+    <string-array name="disk">
+        <item>Диск 1</item>
+        <item>Диск 2</item>
+        <item>Диск 3</item>
+        <item>Диск 4</item>
+        <item>Диск 5</item>
+    </string-array>
+</resources>
